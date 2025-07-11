@@ -1,3 +1,10 @@
+#Asistencia
+  - Gabriel.
+  - Andrew. 
+  - Christopher.
+  - Francisco.
+
+
 # Tarea
 
 # hacer una rama desde release-tarea
