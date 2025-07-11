@@ -18,6 +18,7 @@
   - Andrew. Funcion de resta de dos numeros.
   - Christopher. Funcion de Multiplicacion de dos numeros.
   - Francisco. Funcion de division de dos numeros.
+  - Cesar. Funcion que dice el numero mayor entre dos numeros. 
 
 Van a añadir el archivo a su rama
 Hacer commmit del cambio 
